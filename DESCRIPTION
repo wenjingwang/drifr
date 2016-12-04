@@ -1,0 +1,12 @@
+Package: drifr
+Type: Package
+Title: Decomposit Recentered Influence Function Regression with R
+Version: 0.1.0
+Authors@R: person("Wenjing", "Wang", email = "wenjingwang1990@gmail.com", role = c("aut", "cre"))
+Description: This package is for decompositing recentered influence function
+    using R
+License: MIT
+LazyData: TRUE
+Imports:uqr
+Suggests: dplyr ggplot2
+RoxygenNote: 5.0.1
