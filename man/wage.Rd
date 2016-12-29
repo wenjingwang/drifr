@@ -2,12 +2,13 @@
 % Please edit documentation in R/wage.R
 \name{wage}
 \alias{wage}
+\title{China's Wage Income of Employees in Urban Corporations in 2002}
 \format{A data set with 3866 observations on the following 36 vairables}
-\source{
-Data from China's Household Income Survey 2002
-}
 \usage{
 data(wage)
+}
+\description{
+This data was selected from China's Household Income Survey 2002
 }
 \keyword{datasets}
 
